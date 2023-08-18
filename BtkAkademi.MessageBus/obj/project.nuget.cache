@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujgmLnnvqOg4rOFywmk6499T+N5dHcUP8zUkT1gFjZyYJ7WC+hw7W/U72VTmqRM5+swvw3EcKoFPS8hwHmCm4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.MessageBus\\BtkAkademi.MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadir\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
