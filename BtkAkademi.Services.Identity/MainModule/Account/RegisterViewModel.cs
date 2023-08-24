@@ -5,10 +5,13 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace BtkAkademi.Services.Identity.MainModule.Account
 {
     public class RegisterViewModel
     {
+        internal string? externalLoginScheme;
+
         [Required]
         public string Username { get; set; }
 
@@ -34,3 +37,5 @@ namespace BtkAkademi.Services.Identity.MainModule.Account
 
     }
 }
+
+

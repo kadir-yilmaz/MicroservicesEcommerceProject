@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BtkAkademi.Web
+build_property.RootNamespace = BtkAkademi.Web
+build_property.ProjectDir = /Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Product/ProductCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Product/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Product/ProductIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Yonetici/Git.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvWW9uZXRpY2kvR2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/Yonetici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvWW9uZXRpY2kvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Cart/CartIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvQ2FydC9DYXJ0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Cart/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvQ2FydC9Db25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Home/Destek.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvSG9tZS9EZXN0ZWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvSG9tZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQ3VzdG9tZXIvVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/_AdminLoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/BtkAkademi.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-aq2m3pouxm

@@ -92,8 +92,11 @@ namespace BtkAkademi.Service.ShoppingCartAPI.Controllers
            
             Options options = new Options();
 
-            options.ApiKey = "sandbox-8zkTEIzQ8rikWsvPkL76V8kAvo4DpYuz";
-            options.SecretKey = "sandbox-56FjiYYrjkAuSqENtt0k8b7Ei03s8X61";
+            //options.ApiKey = "sandbox-8zkTEIzQ8rikWsvPkL76V8kAvo4DpYuz";
+            //options.SecretKey = "sandbox-56FjiYYrjkAuSqENtt0k8b7Ei03s8X61";
+
+            options.ApiKey = "sandbox-H27xnU1esyxS3KIHQnLoafVPwVEFGXJq";
+            options.SecretKey = "sandbox-1EYAQ5NjomhY3u23U7DDfFVqE8GvsZAE";
 
             options.BaseUrl = "https://sandbox-api.iyzipay.com";
 

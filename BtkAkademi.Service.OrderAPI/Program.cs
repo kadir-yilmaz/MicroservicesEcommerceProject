@@ -16,7 +16,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-               options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+               options.UseSqlServer(builder.Configuration.GetConnectionString("sqlConnection")));
 
 
 //IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
@@ -25,7 +25,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
 var optionBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-optionBuilder.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+optionBuilder.UseSqlServer(builder.Configuration.GetConnectionString("sqlConnection"));
 
 builder.Services.AddHostedService<RabbitMQPaymentConsumer>();
 builder.Services.AddHostedService<RabbitMQCheckoutConsumer>();

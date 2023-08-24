@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oApEMMZ5eHgb2ZCIGmF+IZ2ZPCHTnQ/dB15zeUTMxqw=",
+  "Hash": "q16yLqY9vFJQDk7vszo1vXeBiCH5Xq0m7EPWqqDntGM=",
   "Source": "BtkAkademi.Web",
   "BasePath": "_content/BtkAkademi.Web",
   "Mode": "Default",
@@ -4505,6 +4505,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\122.png"
     },
     {
+      "Identity": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\Uploads\\airpods.jpg",
+      "SourceId": "BtkAkademi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\",
+      "BasePath": "_content/BtkAkademi.Web",
+      "RelativePath": "Uploads/airpods.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\airpods.jpg"
+    },
+    {
       "Identity": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\Uploads\\logo.png",
       "SourceId": "BtkAkademi.Web",
       "SourceType": "Discovered",
@@ -4537,57 +4554,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\panertikkar.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\Uploads\\pavbaji.jpg",
-      "SourceId": "BtkAkademi.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\",
-      "BasePath": "_content/BtkAkademi.Web",
-      "RelativePath": "Uploads/pavbaji.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\pavbaji.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\Uploads\\sweetpie.jpg",
-      "SourceId": "BtkAkademi.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\",
-      "BasePath": "_content/BtkAkademi.Web",
-      "RelativePath": "Uploads/sweetpie.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\sweetpie.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\Uploads\\WhatsApp Image 2023-07-27 at 17.30.41.jpeg",
-      "SourceId": "BtkAkademi.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kadir\\OneDrive\\Masaüstü\\MicroservicesEcommerceProject\\BtkAkademi.Web\\wwwroot\\",
-      "BasePath": "_content/BtkAkademi.Web",
-      "RelativePath": "Uploads/WhatsApp Image 2023-07-27 at 17.30.41.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\WhatsApp Image 2023-07-27 at 17.30.41.jpeg"
     }
   ]
 }

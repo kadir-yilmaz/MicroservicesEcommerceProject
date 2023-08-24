@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="multi">
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Services.CouponAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Services.ProductAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Payment.PaymentProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Service.OrderAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Gateway.BtkAkademi.GatewaySolution PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Service.ShoppingCartAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Services.Identity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Services.PaymentAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{FB83FFDD-A4F6-4F66-BEFB-5B3D944FF2FB}" ItemName="BtkAkademi.GatewaySolution" ConfigurationId="Default" />
+        <StartupItem ItemId="{93AB6C20-CD2C-46FA-B967-71C7287165A4}" ItemName="BtkAkademi.Services.CouponAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{6726C58E-43F6-4901-8106-B5EDE2B69592}" ItemName="BtkAkademi.Services.Email" ConfigurationId="Default" />
+        <StartupItem ItemId="{9F09F19E-93EC-424F-AB57-42A03D12BCDC}" ItemName="BtkAkademi.Services.Identity" ConfigurationId="Default" />
+        <StartupItem ItemId="{53800D11-61E8-4D7F-B76A-AAEB9A7B8916}" ItemName="BtkAkademi.Services.PaymentAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{53704766-7814-4A64-94ED-B160B0F232F9}" ItemName="BtkAkademi.Services.ProductAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{E8759A2A-C99F-461C-B96E-010B782C341C}" ItemName="BtkAkademi.Web" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+    <MultiItemSolutionRunConfiguration Id="multi" Name="multi">
+      <Items>
+        <StartupItem ItemId="{FB83FFDD-A4F6-4F66-BEFB-5B3D944FF2FB}" ItemName="BtkAkademi.GatewaySolution" ConfigurationId="Default" />
+        <StartupItem ItemId="{5D4E38D8-C39B-48A4-9B41-A9620D64100C}" ItemName="BtkAkademi.Service.OrderAPI" ConfigurationId="BtkAkademi.Services.OrderAPI" />
+        <StartupItem ItemId="{22FC6F17-D0D2-4D83-908A-0426777612B9}" ItemName="BtkAkademi.Service.ShoppingCartAPI" ConfigurationId="BtkAkademi.Services.ShoppingCartAPI" />
+        <StartupItem ItemId="{93AB6C20-CD2C-46FA-B967-71C7287165A4}" ItemName="BtkAkademi.Services.CouponAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{6726C58E-43F6-4901-8106-B5EDE2B69592}" ItemName="BtkAkademi.Services.Email" ConfigurationId="Default" />
+        <StartupItem ItemId="{9F09F19E-93EC-424F-AB57-42A03D12BCDC}" ItemName="BtkAkademi.Services.Identity" ConfigurationId="Default" />
+        <StartupItem ItemId="{53800D11-61E8-4D7F-B76A-AAEB9A7B8916}" ItemName="BtkAkademi.Services.PaymentAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{53704766-7814-4A64-94ED-B160B0F232F9}" ItemName="BtkAkademi.Services.ProductAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{E8759A2A-C99F-461C-B96E-010B782C341C}" ItemName="BtkAkademi.Web" ConfigurationId="Default" />
+        <StartupItem ItemId="{39A7ABB4-89E1-4271-B642-666426712A86}" ItemName="PaymentProcessor" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BtkAkademi.Services.ProductAPI/appsettings.json" />
+      <File FileName="BtkAkademi.Services.ProductAPI/Program.cs" />
+      <File FileName="BtkAkademi.Services.PaymentAPI/appsettings.json" />
+      <File FileName="BtkAkademi.Services.Identity/appsettings.json" />
+      <File FileName="BtkAkademi.Services.Identity/Program.cs" />
+      <File FileName="BtkAkademi.Services.Email/appsettings.json" />
+      <File FileName="BtkAkademi.Services.Email/Program.cs" Line="62" Column="1" />
+      <File FileName="BtkAkademi.Services.Email/WeatherForecast.cs" />
+      <File FileName="BtkAkademi.Services.CouponAPI/appsettings.json" />
+      <File FileName="BtkAkademi.Services.CouponAPI/Program.cs" />
+      <File FileName="BtkAkademi.Service.ShoppingCartAPI/appsettings.json" />
+      <File FileName="BtkAkademi.Service.ShoppingCartAPI/Program.cs" />
+      <File FileName="BtkAkademi.Service.OrderAPI/appsettings.json" />
+      <File FileName="BtkAkademi.Service.OrderAPI/Program.cs" />
+      <File FileName="BtkAkademi.Web/appsettings.json" />
+      <File FileName="BtkAkademi.Web/Properties/launchSettings.json" />
+      <File FileName="BtkAkademi.Services.ProductAPI/Properties/launchSettings.json" />
+      <File FileName="BtkAkademi.Services.PaymentAPI/Program.cs" Line="55" Column="1" />
+      <File FileName="BtkAkademi.Services.PaymentAPI/Messaging/RabbitMQPaymentConsumer.cs" Line="17" Column="32" />
+      <File FileName="BtkAkademi.GatewaySolution/Program.cs" Line="39" Column="1" />
+      <File FileName="BtkAkademi.GatewaySolution/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroservicesEcommerceProject" expanded="True">
+            <Node name="Gateway" expanded="True" />
+            <Node name="Integration" expanded="True" />
+            <Node name="Payment" expanded="True" />
+            <Node name="Services" expanded="True">
+              <Node name="BtkAkademi.Services.PaymentAPI">
+                <Node name="Messaging" expanded="True">
+                  <Node name="RabbitMQPaymentConsumer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.BtkAkademi.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.BtkAkademi.Services.Email PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

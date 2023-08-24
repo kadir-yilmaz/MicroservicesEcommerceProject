@@ -1,0 +1,15 @@
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/bin/Release/net7.0/PaymentProcessor
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/bin/Release/net7.0/PaymentProcessor.deps.json
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/bin/Release/net7.0/PaymentProcessor.runtimeconfig.json
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/bin/Release/net7.0/PaymentProcessor.dll
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/bin/Release/net7.0/PaymentProcessor.pdb
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.csproj.AssemblyReference.cache
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.AssemblyInfoInputs.cache
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.AssemblyInfo.cs
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.csproj.CoreCompileInputs.cache
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.dll
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/refint/PaymentProcessor.dll
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.pdb
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/PaymentProcessor.genruntimeconfig.cache
+/Users/kadiryilmaz/Library/CloudStorage/OneDrive-Personal/Masaüstü/MicroservicesEcommerceProject/PaymentProcessor/obj/Release/net7.0/ref/PaymentProcessor.dll

@@ -58,7 +58,7 @@ namespace BtkAkademi.Services.Identity.Initilializer
                 LastName = "gokyar"
             };
 
-            _userManager.CreateAsync(customerUser, "Admin123*").GetAwaiter().GetResult();
+            _userManager.CreateAsync(customerUser, "Customer123*").GetAwaiter().GetResult();
             _userManager.AddToRoleAsync(customerUser, SD.Customer).GetAwaiter().GetResult();
 
             var temp2 = _userManager.AddClaimsAsync(customerUser, new Claim[] {
